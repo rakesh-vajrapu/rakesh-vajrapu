@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Vajrapu</h1>
 <h3 align="center">A Passionate Developer!</h3>
 
-<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding" width="360px" align="right">
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding" width="400px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-vajrapu&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-vajrapu" /> </p>
 
@@ -15,18 +15,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rakesh_vajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh_vajrapu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://fb.com/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://instagram.com/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://medium.com/@rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rakeshvajrapu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
-<a href="https://discord.gg/rakeshvajrapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://twitter.com/rakesh_vajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh_vajrapu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://fb.com/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://instagram.com/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://medium.com/@rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rakeshvajrapu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
+<a href="https://discord.gg/rakeshvajrapu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakeshvajrapu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
