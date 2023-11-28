@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **Javascript and it's frameworks**
 
-- 🌱 I’m currently learning **Open Source Projects**
-
-- 👯 I’m looking to collaborate on **Development projects**
+- 👯 I’m looking to collaborate on **Open-source projects** and connect with fellow developers.
 
 - 📫 How to reach me **rakeshrb1411@gmail.com**
 
