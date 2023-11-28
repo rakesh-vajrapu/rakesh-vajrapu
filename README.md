@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-vajrapu&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-vajrapu" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Javascript and it's frameworks**
 
 - 🌱 I’m currently learning **Open Source Projects**
 
