@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Open Source Projects**
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **Development projects**
 
 - 📫 How to reach me **rakeshrb1411@gmail.com**
 
