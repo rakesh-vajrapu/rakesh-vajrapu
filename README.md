@@ -1,6 +1,6 @@
 ![logo](https://github.com/rakesh-vajrapu/rakesh-vajrapu/blob/main/Banner%20Image.png)
 
-<h1 align="center">Hi 👋, I'm Rakesh Vajrapu</h1>
+<h1 align="center">Hi, I'm Rakesh Vajrapu! 👋</h1>
 <h3 align="center">A Passionate Developer!</h3>
 
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding" width="400px" align="right">
