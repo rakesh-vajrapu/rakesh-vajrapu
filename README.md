@@ -1,4 +1,4 @@
-![logo](https://github.com/rakesh-vajrapu/rakesh-vajrapu/blob/main/Banner%20Image.png)
+![logo](banner-image.png)
 
 <h1 align="center">Hi, I'm Rakesh Vajrapu! 👋</h1>
 <h3 align="center">A Passionate Developer!</h3>
