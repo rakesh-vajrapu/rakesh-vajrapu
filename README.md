@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects** and connect with fellow developers.
 -  Currently, I am delving into the intriguing world of Machine Learning.
-- 📫 How to reach me ⟶ [linkedIn/rakeshvajrapu](https://www.linkedin.com/in/rakeshvajrapu/)
+- 📫 How to reach me ➜ [linkedIn/rakeshvajrapu](https://www.linkedin.com/in/rakeshvajrapu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
